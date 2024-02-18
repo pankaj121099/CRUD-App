@@ -89,6 +89,7 @@ const handleUpdate= ()=>{
   return (
     <> 
 
+     <div className=" bg-primary"> 
    <h1 className="text-center mt-2 p-1"> Crud <span style={{color:'red'}}>App</span></h1> <br/> 
    <hr style={{ height:'8px', backgroundColor:'black'}}/>
    <div style={{display:'flex', justifyContent:'center', marginTop:'10px', padding:"15px"}} >
